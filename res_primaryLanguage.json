@@ -1,0 +1,139 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hello! I'm a soon-to-be graduate from the University of Massachusetts, passionate about all things tech. Skilled in both front-end and back-end development, I have a keen interest in machine learning and its applications. As I step into the professional world, I'm eager to apply my skills to solve real-world problems and innovate within the tech industry.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Ancient Ruins Game",
+        "startDate": "2024",
+        "description": "For my game development class, I took on the exciting challenge of creating a game set in ancient ruins. The game was built using Unity and throughout the project, I learned to implement a variety of technologies and received valuable feedback from my professor.",
+        "images": [
+          "/images/portfolio/ancient/a3.png",
+          "/images/portfolio/ancient/a1.png",
+          "/images/portfolio/ancient/a2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Office Hours Scheduler",
+        "startDate": "2024",
+        "description": "As part of a group assignment, I contributed to the development of an Office Hours Scheduler website aimed at streamlining the appointment process for academic consultations. Within our team, my primary role was in front-end development, where I was responsible for creating an intuitive user interface that allows students and faculty to effortlessly schedule appointments.",
+        "images": [
+          "/images/portfolio/scheduler/s2.png",
+          "images/portfolio/scheduler/s1.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Flappy Block Game",
+        "startDate": "2023",
+        "description": "I made a game to learn more about game development. It’s similar to Flappy Bird where you help a block avoid obstacles by clicking to make it fly. This was a personal project I did before taking a game development class, and it helped me get started with making games.",
+        "images": [
+          "images/portfolio/flappy/f1.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "Phaser"
+          }
+        ]
+      },
+      {
+        "title": "Algorithm Visualizer",
+        "startDate": "2022",
+        "description": "One of the first personal projects, I developed a Pathfinding Visualizer to demonstrate and compare the effectiveness of various algorithms in finding the shortest path. This interactive tool visually represents how different algorithms, like Dijkstra’s and A*, navigate through a grid to reach a target.",
+        "images": [
+          "images/portfolio/visualizer/v1.png",
+          "images/portfolio/visualizer/v2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Software Developer Engineer Intern",
+        "years": "June 2023 - August 2023",
+        "mainTech": [
+          "Java Spring"
+        ],
+        "technologies": [
+          "REST API",
+          "AWS",
+          "JavaScript",
+          "LLMs"
+        ]
+      },
+      {
+        "company": "Hope EK ASHA",
+        "title": "Software Developer Intern",
+        "years": "May 2021 - August 2021",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Android Studio",
+          "Java"
+        ]
+      }
+    ]
+  }
