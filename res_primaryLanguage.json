@@ -15,9 +15,9 @@
         "startDate": "2024",
         "description": "For my game development class, I took on the exciting challenge of creating a game set in ancient ruins. The game was built using Unity and throughout the project, I learned to implement a variety of technologies and received valuable feedback from my professor.",
         "images": [
-          "/images/portfolio/ancient/a3.png",
-          "/images/portfolio/ancient/a1.png",
-          "/images/portfolio/ancient/a2.png"
+          "images/portfolio/ancient/a3.png",
+          "images/portfolio/ancient/a1.png",
+          "images/portfolio/ancient/a2.png"
         ],
         "url": "",
         "technologies": [
@@ -36,7 +36,7 @@
         "startDate": "2024",
         "description": "As part of a group assignment, I contributed to the development of an Office Hours Scheduler website aimed at streamlining the appointment process for academic consultations. Within our team, my primary role was in front-end development, where I was responsible for creating an intuitive user interface that allows students and faculty to effortlessly schedule appointments.",
         "images": [
-          "/images/portfolio/scheduler/s2.png",
+          "images/portfolio/scheduler/s2.png",
           "images/portfolio/scheduler/s1.png"
         ],
         "url": "https://github.com",
